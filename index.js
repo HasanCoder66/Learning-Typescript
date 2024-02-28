@@ -10,5 +10,7 @@
 // console.log(sum(100, 10));
 let myName = 'hasan';
 let myNum = 22;
-console.log(myName);
-console.log(myNum);
+console.log(myName + myNum);
+// console.log(myNum);
+let number3 = NaN;
+console.log(number3);

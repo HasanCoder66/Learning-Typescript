@@ -16,5 +16,9 @@
 
 let myName:string = 'hasan'
 let myNum:number = 22
-console.log(myName);
-console.log(myNum);
+// console.log(myName + myNum);
+// console.log(myNum);
+
+
+let number3 : number = NaN
+console.log(number3);
