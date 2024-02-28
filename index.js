@@ -1,3 +1,9 @@
-console.log('hello hasan');
-var num = 5;
-num = 55;
+// console.log('hello hasan');
+// let num:number = 5 
+// num = 55 ;
+// function
+// @ts-ignore
+function sum(a, b) {
+    return a + b;
+}
+console.log(sum(100, 10));
