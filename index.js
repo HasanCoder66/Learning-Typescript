@@ -8,9 +8,13 @@
 //     return a+b
 // }
 // console.log(sum(100, 10));
-let myName = 'hasan';
-let myNum = 22;
-console.log(myName + myNum);
-// console.log(myNum);
-let number3 = NaN;
-console.log(number3);
+// let myName:string = 'hasan'
+// let myNum:number = 22
+// // console.log(myName + myNum);
+// // console.log(myNum);
+// let number3 : number = NaN
+// console.log(number3);
+function isDivisibleByFourAndEight(a) {
+    return a % 4 === 0 || a % 8 === 0;
+}
+console.log(isDivisibleByFourAndEight(16));
