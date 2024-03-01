@@ -29,3 +29,13 @@ return a % 4 === 0 || a % 8 === 0
 }
 
 console.log(isDivisibleByFourAndEight(16));
+// function isDivisibleByFourAndEight (a:number):boolean {
+// return a % 4 === 0 || a % 8 === 0
+// }
+
+// console.log(isDivisibleByFourAndEight(16));
+// function isDivisibleByFourAndEight (a:number):boolean {
+// return a % 4 === 0 || a % 8 === 0
+// }
+
+// console.log(isDivisibleByFourAndEight(16));
