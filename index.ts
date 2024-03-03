@@ -24,18 +24,30 @@
 // console.log(number3);
 
 
-function isDivisibleByFourAndEight (a:number):boolean {
-return a % 4 === 0 || a % 8 === 0
+// function isDivisibleByFourAndEight (a:number):boolean {
+// return a % 3 === 0 || a % 9 === 0
+// }
+
+// console.log(isDivisibleByFourAndEight(17));
+// function isDivisibleByFourAndEight (a:number):boolean {
+// return a % 4 === 0 || a % 8 === 0
+// }
+
+// console.log(isDivisibleByFourAndEight(16));
+// function isDivisibleByFourAndEight (a:number):boolean {
+// return a % 4 === 0 || a % 8 === 0
+// }
+
+// console.log(isDivisibleByFourAndEight(16));
+
+
+let num = unknown;
+num = 5;
+num = 'hasan';
+num = true;
+
+if(typeof num === 'number'){
+console.log(num + 5);
+}else if (typeof num === 'boolean'){
+    console.log(num);
 }
-
-console.log(isDivisibleByFourAndEight(16));
-// function isDivisibleByFourAndEight (a:number):boolean {
-// return a % 4 === 0 || a % 8 === 0
-// }
-
-// console.log(isDivisibleByFourAndEight(16));
-// function isDivisibleByFourAndEight (a:number):boolean {
-// return a % 4 === 0 || a % 8 === 0
-// }
-
-// console.log(isDivisibleByFourAndEight(16));
