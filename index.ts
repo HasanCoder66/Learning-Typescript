@@ -41,13 +41,17 @@
 // console.log(isDivisibleByFourAndEight(16));
 
 
-let num = unknown;
-num = 5;
-num = 'hasan';
-num = true;
+// let num = unknown;
+// num = 5;
+// num = 'hasan';
+// num = true;
 
-if(typeof num === 'number'){
-console.log(num + 5);
-}else if (typeof num === 'boolean'){
-    console.log(num);
-}
+// if(typeof num === 'number'){
+// console.log(num + 5);
+// }else if (typeof num === 'boolean'){
+//     console.log(num);
+// }
+
+let personName:string = 'hasan'
+let number:number = 1000
+let Bool:boolean = true 

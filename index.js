@@ -1,4 +1,3 @@
-"use strict";
 // console.log('hello hasan');
 // let num:number = 5 
 // num = 55 ;
@@ -26,13 +25,15 @@
 // return a % 4 === 0 || a % 8 === 0
 // }
 // console.log(isDivisibleByFourAndEight(16));
-let num = unknown;
-num = 5;
-num = 'hasan';
-num = true;
-if (typeof num === 'number') {
-    console.log(num + 5);
-}
-else if (typeof num === 'boolean') {
-    console.log(num);
-}
+// let num = unknown;
+// num = 5;
+// num = 'hasan';
+// num = true;
+// if(typeof num === 'number'){
+// console.log(num + 5);
+// }else if (typeof num === 'boolean'){
+//     console.log(num);
+// }
+var personName = 'hasan';
+var number = 1000;
+var Bool = true;
