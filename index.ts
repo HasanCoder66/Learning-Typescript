@@ -52,6 +52,20 @@
 //     console.log(num);
 // }
 
+// let personName:string = 'hasan'
+// let number:number = 1000
+// let Bool:boolean = true 
+
+
+// let personName:string = 'hasan'
+// let number:number = 1000
+// let Bool:boolean = true 
+
+
+// let personName:string = 'hasan'
+// let number:number = 1000
+// let Bool:boolean = true 
+
 let personName:string = 'hasan'
 let number:number = 1000
 let Bool:boolean = true 

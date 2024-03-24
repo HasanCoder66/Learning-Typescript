@@ -1,3 +1,4 @@
+"use strict";
 // console.log('hello hasan');
 // let num:number = 5 
 // num = 55 ;
@@ -34,6 +35,15 @@
 // }else if (typeof num === 'boolean'){
 //     console.log(num);
 // }
-var personName = 'hasan';
-var number = 1000;
-var Bool = true;
+// let personName:string = 'hasan'
+// let number:number = 1000
+// let Bool:boolean = true 
+// let personName:string = 'hasan'
+// let number:number = 1000
+// let Bool:boolean = true 
+// let personName:string = 'hasan'
+// let number:number = 1000
+// let Bool:boolean = true 
+let personName = 'hasan';
+let number = 1000;
+let Bool = true;
